@@ -1,0 +1,24 @@
+*{
+margin:0;
+box-sizing: border-box;
+padding: 0;
+}
+
+.container{
+background-image:url(../img/sunny-day.jpg);
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+}
+
+.cat{
+background-image:url(../img/kitten-medium.png);
+background-size: cover;
+background-position: 100%;
+background-repeat: no-repeat;
+width: 350px;
+height:210px;
+margin-top:350px;
+margin-left:300px;
+}
